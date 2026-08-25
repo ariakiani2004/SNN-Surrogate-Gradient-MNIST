@@ -1,0 +1,9 @@
+# Core numerical dependency
+numpy>=1.24
+
+# Deep learning framework used for tensors, autograd, BPTT,
+# cross-entropy loss, DataLoader, and manual SGD gradients
+torch>=2.0
+
+# Jupyter environment for running SNN_SG_CODE.ipynb
+jupyter>=1.0
